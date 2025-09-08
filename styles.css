@@ -1,4 +1,4 @@
-/* Reset & Base Styles */
+
 body {
   background-color: #1a1a1a;
   color: #e0e0e0;
@@ -7,7 +7,7 @@ body {
   padding: 0;
 }
 
-/* Header */
+
 header {
   background-color: rgba(51, 48, 48, 0.9);
   display: flex;
@@ -47,14 +47,14 @@ nav a:hover {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.7);
 }
 
-/* Main Container */
+
 main {
   max-width: 960px;
   margin: 20px auto;
   padding: 0 20px;
 }
 
-/* Sections */
+
 section {
   background-color: rgba(34, 43, 58, 0.85);
   padding: 25px 30px;
@@ -78,7 +78,7 @@ h2 {
   padding-bottom: 6px;
 }
 
-/* About Section */
+
 .about-container {
   display: flex;
   flex-wrap: wrap;
@@ -97,7 +97,7 @@ h2 {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
 }
 
-/* Skills Section */
+
 .skills-list {
   display: flex;
   flex-wrap: wrap;
@@ -205,3 +205,4 @@ footer {
     max-width: 100%;
   }
 }
+
